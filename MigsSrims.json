@@ -1,6 +1,6 @@
 {
 	"Name": "Mig's Scrims",
-	"Version": 1740742884,
+	"Version": 1740745157,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1341,7 +1341,8 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				256,
-				258
+				258,
+				257
 			],
 			"ItemWhitelist": [
 				0,
