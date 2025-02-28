@@ -1,6 +1,6 @@
 {
 	"Name": "Mig's Scrims",
-	"Version": 1740770241,
+	"Version": 1740775145,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1324,7 +1324,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"244"
+				"244",
+				"220"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
