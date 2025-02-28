@@ -1,6 +1,6 @@
 {
 	"Name": "Mig's Scrims",
-	"Version": 1740745157,
+	"Version": 1740770241,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -153,6 +153,10 @@
 				[
 					"92",
 					"275"
+				],
+				[
+					"36",
+					"80"
 				]
 			],
 			"KillerComboPerkBans": [
