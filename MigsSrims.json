@@ -1,6 +1,6 @@
 {
 	"Name": "Mig's Scrims",
-	"Version": 1740775145,
+	"Version": 1741010853,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -196,7 +196,9 @@
 		},
 		{
 			"Name": "Tier 1",
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"44"
+			],
 			"KillerIndvPerkBans": [
 				"132",
 				"138",
