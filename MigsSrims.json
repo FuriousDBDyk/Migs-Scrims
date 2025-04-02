@@ -1,6 +1,6 @@
 {
 	"Name": "Mig's Scrims",
-	"Version": 1743612690,
+	"Version": 1743634778,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -97,6 +97,7 @@
 				"256",
 				"195",
 				"199",
+				"278",
 				"205",
 				"209",
 				"211",
@@ -493,7 +494,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"43",
+				"1",
 				"8",
 				"21"
 			],
@@ -628,8 +629,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"6",
-				"14",
-				"53"
+				"7",
+				"14"
 			],
 			"BalanceTiers": [
 				0,
@@ -770,7 +771,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"44",
+				"2",
 				"13",
 				"33"
 			],
@@ -1036,7 +1037,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"11",
-				"53",
+				"31",
 				"33"
 			],
 			"BalanceTiers": [
@@ -1104,7 +1105,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42",
+				"0",
 				"31",
 				"47"
 			],
@@ -1462,8 +1463,8 @@
 			"IsDisabled": false,
 			"Map": [
 				"4",
-				"46",
-				"9"
+				"9",
+				"41"
 			],
 			"BalanceTiers": [
 				0,
@@ -1807,7 +1808,7 @@
 			"IsDisabled": false,
 			"Map": [
 				"8",
-				"25",
+				"23",
 				"29"
 			],
 			"BalanceTiers": [
@@ -2018,7 +2019,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42",
+				"0",
 				"8",
 				"33"
 			],
@@ -2224,8 +2225,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"42",
 				"8",
+				"12",
 				"29"
 			],
 			"BalanceTiers": [
@@ -2503,7 +2504,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"44",
+				"2",
 				"9",
 				"16"
 			],
@@ -2637,9 +2638,9 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"43",
 				"5",
-				"33"
+				"33",
+				"54"
 			],
 			"BalanceTiers": [
 				0,
