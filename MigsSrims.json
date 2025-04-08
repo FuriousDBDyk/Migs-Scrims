@@ -1,6 +1,6 @@
 {
 	"Name": "Mig's Scrims",
-	"Version": 1743969420,
+	"Version": 1744072091,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3131,19 +3131,19 @@
 			],
 			"BalanceTiers": [
 				0,
-				2
+				1
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"264"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"69"
+				"36",
+				"69",
+				"275"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3160,7 +3160,8 @@
 			],
 			"ItemWhitelist": [
 				0,
-				6
+				6,
+				8
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3170,7 +3171,10 @@
 					"Addons": []
 				},
 				"Med-Kit": {
-					"Addons": []
+					"Addons": [
+						2,
+						11
+					]
 				},
 				"Toolbox": {
 					"Addons": []
@@ -3185,8 +3189,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
